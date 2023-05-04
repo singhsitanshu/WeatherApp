@@ -1,0 +1,11 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+.temp {
+    background-color: #141414;
+}
+
+.temp header {
+    font-size: 8rem;
+    text-align: center;
+}
